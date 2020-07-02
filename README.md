@@ -7,7 +7,7 @@ we must complete the following
 2. Discuss why you’re in this course. Do you already have experience with web development, or is this your first time? What are you hoping to learn?
 3. Share some interesting pictures. Tell us why you like them.
 Link the pages together so that you can reach each page from each of the other pages.
-Include each of the following HTML tags at appropriate places in your site: <head>, <body>, <title>, <p>, <main>, <nav>, <section>, <ul>, <ol>, <a>, <img>, and at least one of <header> or <footer>.
+Include each of the following HTML tags at appropriate places in your site: "<head>, <body>, <title>, <p>, <main>, <nav>, <section>, <ul>, <ol>, <a>, <img>, and at least one of <header> or <footer>."
 - Do not limit yourself to the tags listed above; you are free to use additional tags as appropriate.
 - CSS styling is not required.
 - Do not “hotlink” the images from someone else’s site; include them in your web site’s repository.
